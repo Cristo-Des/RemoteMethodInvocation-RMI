@@ -11,10 +11,6 @@ import shared.QueryService;
 /**
  * This is a server that offers a query interface via RMI.
  * 
- * Launch rmiregistry with
- * rmiregistry -J-Djava.rmi.server.codebase="http://someserver.tld/somepath/shared.jar"&
- * 
- * @author Fredo Erxleben
  *
  */
 public class ServerMain {
