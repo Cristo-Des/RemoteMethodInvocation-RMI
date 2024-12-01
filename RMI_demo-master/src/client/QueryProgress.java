@@ -4,7 +4,6 @@ package client;
  * A simple representation of the progress of a query with the parameters A and
  * B.
  * 
- * @author fredo
  *
  */
 public class QueryProgress {
