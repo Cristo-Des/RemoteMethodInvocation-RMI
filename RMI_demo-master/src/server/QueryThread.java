@@ -7,7 +7,6 @@ import java.util.concurrent.Callable;
  * takes two arguments <i>a</i>, <i>b</i> and calculates the modified Ackermann
  * function <i>ack(a,b)</i>.
  * 
- * @author Fredo Erxleben
  *
  */
 public class QueryThread implements Callable<Integer> {
