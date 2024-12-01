@@ -16,7 +16,6 @@ import shared.QueryState;
  * Each query is assigned to its own thread and the threads are handed to an executor
  * who manages them in a CachedThreadPool.
  * 
- * @author Fredo Erxleben
  *
  */
 public class ThreadedQueryService implements QueryService {
