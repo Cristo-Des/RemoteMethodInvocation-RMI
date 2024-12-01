@@ -16,7 +16,6 @@ import shared.QueryState;
  * Submit the target host as args[0] (e.g. hostname.domain.tld)
  * Only provide a port if you do not use the default 1099.
  * 
- * @author fredo
  *
  */
 public class ClientMain {
